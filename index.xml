@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Парсинг сайтов веб скарпинг</title>
-    <link>http://parsinghub.ru/</link>
+    <link>https://parsinghub.ru/</link>
     <description>Recent content on Парсинг сайтов веб скарпинг</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="http://parsinghub.ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://parsinghub.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dies ist eine deutsche Testseite</title>
-      <link>http://parsinghub.ru/blog/post-1/</link>
+      <link>https://parsinghub.ru/blog/post-1/</link>
       <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
       
-      <guid>http://parsinghub.ru/blog/post-1/</guid>
+      <guid>https://parsinghub.ru/blog/post-1/</guid>
       <description>Exemplarische Überschrift Hier ist ein Beispiel für eine Überschrift. Sie können diese Überschrift verwenden, indem Sie den Markdownify-Regeln folgen.</description>
     </item>
     
